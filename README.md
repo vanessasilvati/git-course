@@ -2,6 +2,6 @@
 
 Arquivo do curso Git e Git Hub para iniciantes, na Udemy.
 
-Commit Ok 
+Curso em andamento.
 
  
